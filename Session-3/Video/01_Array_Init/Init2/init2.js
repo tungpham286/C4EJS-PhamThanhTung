@@ -1,0 +1,1 @@
+let menu = ['cho','meo','ga','cho nhung bi ngu'];
